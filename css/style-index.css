@@ -18,8 +18,8 @@ body {
 
 main {
     align-items: center;
-    width: 350px;
-    height: 530px;
+    width: 300px;
+    height: 480px;
     background-color: var(--white);
     border-radius: 20px;
     margin: 5% auto;
@@ -35,14 +35,14 @@ main img {
     width: 80%;
     display: flex;
     flex-wrap: wrap;
-    gap: 15px;
+    gap: 20px;
     margin: auto;
 }
 
 h3 {
     font-weight: 700;
     color: var(--darkBlue);
-    font-size: 22px;
+    font-size: 20px;
 }
 
 p {
