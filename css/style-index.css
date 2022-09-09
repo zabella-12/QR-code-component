@@ -19,9 +19,9 @@ body {
 main {
     align-items: center;
     width: 350px;
-    height: 510px;
+    height: 530px;
     background-color: var(--white);
-    border-radius: 10px;
+    border-radius: 20px;
     margin: 5% auto;
 }
 
